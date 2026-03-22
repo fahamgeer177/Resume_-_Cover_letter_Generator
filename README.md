@@ -6,6 +6,8 @@ An AI-powered Streamlit app that helps you quickly generate:
 
 Built for job seekers who want to tailor applications to a specific role with less effort and better quality.
 
+https://github.com/user-attachments/assets/05045734-9cd3-485a-87ac-839da891126d
+
 ## ✨ Features
 
 - Resume Generator tailored to job description
@@ -103,4 +105,4 @@ Contributions are welcome! Open an issue or submit a pull request.
 
 ## 📜 License
 
-Add your preferred license here (for example, MIT).
+MIT
